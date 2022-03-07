@@ -1,0 +1,34 @@
+footer {
+  border: 2px solid black;
+  width: 100%;
+  background-color: #1d3557 !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem;
+}
+footer * {
+  background-color: #1d3557;
+}
+a {
+  color: white !important;
+  text-decoration: none !important;
+
+  font-size: 15px;
+}
+a:hover {
+  color: rgb(197, 196, 196) !important;
+  text-decoration: underline;
+}
+
+h4 {
+  font-weight: 600;
+  color: white;
+}
+
+#first {
+  width: 50%;
+}
+#second {
+  width: 30%;
+}

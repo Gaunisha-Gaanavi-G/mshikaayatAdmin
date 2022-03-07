@@ -1,0 +1,15 @@
+.set-to-false {
+  background-color: #e63946;
+  /* background-color: #30991b; */
+  border: none;
+  outline: none;
+  font-family: "Roboto Slab", serif;
+  padding: 4px 8px;
+  color: white;
+  border-radius: 4px;
+}
+
+.set-to-false:hover {
+  background-color: white;
+  color: #e63946;
+}

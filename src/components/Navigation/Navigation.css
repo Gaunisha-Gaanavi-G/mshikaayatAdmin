@@ -1,0 +1,61 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Slab', serif; */
+.sb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-remove-css {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.Nav {
+  background-color: #1d3557;
+  /* background-color: #eb5360; */
+  margin: 0;
+  padding: 1rem 4rem;
+  color: white;
+  font-size: 16px;
+  font-family: "Roboto Slab", serif;
+}
+.nav-right span,
+.nav-left span,
+.nav-dropdownbutton {
+  margin-left: 1.5rem;
+}
+.appname {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 25px;
+}
+.nav-dropdownbutton {
+  background-color: #1d3557 !important;
+  color: white;
+}
+.dropdown-links {
+  color: black !important;
+}
+.dropdown-links:hover {
+  color: black !important;
+}
+.nav-dropdownbutton:hover,
+.nav-dropdownbutton:focus {
+  background-color: #ffffff1f !important;
+  color: white;
+}
+.nav-link {
+  border-radius: 4px;
+  padding: 6px 10px;
+  color: white !important;
+}
+.nav-link:hover {
+  color: white !important;
+  background-color: #ffffff1f !important;
+}
+.logout {
+  background-color: #e63946;
+}
+.logout:hover {
+  background-color: #ffffff !important;
+  color: #e63946 !important;
+}

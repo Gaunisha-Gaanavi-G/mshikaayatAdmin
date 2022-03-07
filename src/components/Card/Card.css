@@ -1,0 +1,22 @@
+.complaint-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 7rem 10rem;
+  height: 450px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.data-table {
+  font-size: 15px;
+  text-align: center;
+}
+
+.open {
+  color: #0f6cf8;
+}
+.inprogress {
+  color: #fa9600;
+}
+.solved {
+  color: #4daf25;
+}

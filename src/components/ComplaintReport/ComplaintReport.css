@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap");
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.header {
+  background-color: rgb(255, 255, 255);
+  color: rgb(40, 40, 94);
+  padding: 15px;
+}
+.content {
+  padding: 20px;
+}
+.head {
+  font-family: "Mulish", sans-serif;
+  font-size: larger;
+}
+.complaint-container {
+  background-color: rgba(224, 227, 247, 0.74);
+  margin: 3%;
+  padding: 30px;
+  font-size: 15px;
+}
+.view-report {
+  border: none;
+  outline: none;
+  font-family: "Roboto Slab", serif;
+  padding: 4px 8px;
+  background-color: rgb(203, 219, 218);
+  color: black;
+  border-radius: 4px;
+  color: black;
+}
+.view-report:hover {
+  background-color: rgb(188, 201, 200);
+  color: black;
+}
